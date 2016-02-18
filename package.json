@@ -1,6 +1,6 @@
 {
   "name": "current-pkg",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Load package.json from current work directory.",
   "license": "MIT",
   "repository": "egoist/current-pkg",
